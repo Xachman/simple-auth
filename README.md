@@ -14,8 +14,8 @@ simple-auth:
     environment:
         PASSWORD: password
         USER: user
-		HOST: host
-		PORT: 80
+	HOST: host
+	PORT: 80
 service:
     image: service
 ~~~
